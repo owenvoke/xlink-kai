@@ -1,6 +1,6 @@
 # XLink Kai Docker
 
-[![Latest Version][ico-version]][link-github-releases]
+[![Latest Version][ico-version]][link-releases]
 [![Software License][ico-license]](LICENSE.md)
 [![Build Status][ico-github-actions]][link-github-actions]
 [![Buy us a tree][ico-treeware-gifting]][link-treeware-gifting]
@@ -50,13 +50,13 @@ You can buy trees [here][link-treeware-gifting].
 
 Read more about Treeware at [treeware.earth][link-treeware].
 
-[ico-version]: https://img.shields.io/github/v/release/owenvoke/xlink-kai.svg?style=flat-square&sort=semver
+[ico-version]: https://img.shields.io/github/v/tag/owenvoke/xlink-kai.svg?style=flat-square&sort=semver
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-github-actions]: https://img.shields.io/github/actions/workflow/status/owenvoke/xklink-kai/tests.yml?branch=main&style=flat-square
+[ico-github-actions]: https://img.shields.io/github/actions/workflow/status/owenvoke/xlink-kai/release.yml?branch=main&style=flat-square
 [ico-treeware-gifting]: https://img.shields.io/badge/Treeware-%F0%9F%8C%B3-lightgreen?style=flat-square
 
-[link-releases]: https://github.com/owenvoke/xklink-kai/releases
-[link-github-actions]: https://github.com/owenvoke/xklink-kai/actions
+[link-releases]: https://github.com/owenvoke/xlink-kai/releases
+[link-github-actions]: https://github.com/owenvoke/xlink-kai/actions
 [link-treeware]: https://treeware.earth
 [link-treeware-gifting]: https://ecologi.com/owenvoke?gift-trees
 [link-author]: https://github.com/owenvoke
