@@ -18,10 +18,7 @@ docker pull ghcr.io/owenvoke/xlink-kai
 ## Usage
 
 ```shell
-docker run --rm -it \
-  -v ./data:/data \
-  -p 34522:34522 \
-  ghcr.io/owenvoke/xlink-kai
+docker run --rm -it -v ./data:/data -p 34522:34522 ghcr.io/owenvoke/xlink-kai
 ```
 
 ## Security
