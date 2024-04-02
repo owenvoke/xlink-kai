@@ -1,6 +1,6 @@
 FROM alpine:3.18 as build
 
-ARG VERSION="7.4.44_632903458"
+ARG VERSION="7.4.45_651430714"
 
 WORKDIR /data
 
