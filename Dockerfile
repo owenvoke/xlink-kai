@@ -1,4 +1,4 @@
-FROM alpine:3.20 as build
+FROM alpine:3.22 as build
 
 ARG VERSION="7.4.45_651430714"
 
@@ -10,7 +10,7 @@ RUN curl -o kai.tar.gz "https://dist.teamxlink.co.uk/linux/debian/static/standal
 
 RUN tar -xvf "kai.tar.gz" kaiEngine-standalone/kaiengine
 
-FROM alpine:3.20 as production
+FROM alpine:3.22 as production
 
 WORKDIR /data
 
