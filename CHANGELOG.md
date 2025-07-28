@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 
 ## Unreleased
 
+## v0.1.3 - 2025-07-28
+
+### Changed
+- Update to Alpine 3.22 ([f73b3cd](https://github.com/owenvoke/xlink-kai/commit/f73b3cdb63344928b49d42fdd901059a97e4daa0))
+
 ## v0.1.2 - 2024-06-10
 
 ### Changed
